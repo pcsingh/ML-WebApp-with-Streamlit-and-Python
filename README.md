@@ -1,5 +1,7 @@
 # WebApp-with-Streamlit-and-Python
 
+[![GitHub forks](https://img.shields.io/github/forks/pcsingh/ML-WebApp-with-Streamlit-and-Python.svg?logo=github&color=teal)](https://github.com/pcsingh/ML-WebApp-with-Streamlit-and-Python/network/members) ![GitHub repo size](https://img.shields.io/github/repo-size/pcsingh/ML-WebApp-with-Streamlit-and-Python?logo=github)
+
 Streamlit is an open-source app framework for Machine Learning and Data Science projects, Which helps you to view your projects in the Web Application.
 </br>
 </br>
